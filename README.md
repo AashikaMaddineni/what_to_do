@@ -1,2 +1,2 @@
 # what_to_do
- Simple Remainder App by using Flutter
+Remainder App by using Flutter
